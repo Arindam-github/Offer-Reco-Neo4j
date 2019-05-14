@@ -1,0 +1,16 @@
+label,type,Name,Description
+R1,Restaurant,Restaurant 1,Multi Cuisine Fine Dining
+R2,Restaurant,Restaurant 2,Casual Dining
+R3,Restaurant,Restaurant 3,Chinese and South Asian Cuisine
+R4,Restaurant,Restaurant 4,Caffe
+DS1,Departmental store,Dept Store 1,Local Supermarket
+DS2,Departmental store,Dept Store 2,Global Hypermarket Chain
+DS3,Departmental store,Dept Store 3,Global Hypermarket Chain
+DS4,Departmental store,Dept Store 4,Large Supermarket
+HT1,Hotel,Hotel 1,Bed and Breakfast
+HT2,Hotel,Hotel 2,Boutique hotel
+HT3,Hotel,Hotel 3,Luxury Beach Resort
+HT4,Hotel,Hotel 4,Bed and Breakfast
+FA1,Fashion and Apparel,F and A 1,International Chain
+FA2,Fashion and Apparel,F and A 2,Local Store
+FA3,Fashion and Apparel,F and A 3,International Luxury Brand

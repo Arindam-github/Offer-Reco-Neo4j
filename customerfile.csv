@@ -1,0 +1,21 @@
+CustId,Dines,Shops,Fashion,Travel,Works_with,Country,Earns,Remits_Money,Holds_Personal_loan,Holds_Auto_loan,Holds_Mortgage,Holds_Credit_Card,Holds_Debit_Card,Holds_Current_acct,Holds_Savings_acct,Holds_Term_deposit,Holds_Investment
+C1,R1,DS2,FA1,HT2,BMW Middle East,AE,More_than_50K,Never,No,No,No,No,No,Yes,No,No,No
+C2,R2,DS1,FA2,HT1,Etisalat,EG,Less_than_5K,Lapser,No,No,No,Yes,No,No,Yes,No,No
+C3,R3,DS4,FA1,HT1,Shell,US,15K_25K,Never,No,No,No,No,Yes,Yes,Yes,No,No
+C4,R4,DS2,FA1,HT2,Shell,AE,25K_50K,New,No,No,No,Yes,No,Yes,Yes,Yes,No
+C5,R2,DS3,FA2,HT1,Shell,US,5K_15K,Regular,No,No,No,No,Yes,No,No,Yes,No
+C6,R3,DS4,FA2,HT2,Shell,UK,25K_50K,Lapser,No,No,No,No,No,No,No,Yes,No
+C7,R2,DS1,FA2,HT2,Shell,EG,15K_25K,Regular,No,No,No,Yes,No,Yes,No,Yes,No
+C8,R3,DS3,FA1,HT1,Etisalat,UK,15K_25K,Lapser,No,No,No,Yes,No,Yes,No,No,No
+C9,R2,DS1,FA2,HT4,PWC,IND,More_than_50K,Never,Yes,No,No,No,Yes,Yes,Yes,No,No
+C10,R3,DS3,FA1,HT2,Emirates,IND,15K_25K,Lapser,No,No,No,No,No,Yes,Yes,No,No
+C11,R1,DS2,FA1,HT3,PWC,IND,15K_25K,Never,No,No,No,Yes,Yes,Yes,No,Yes,Yes
+C12,R2,DS2,FA1,HT2,Shell,US,More_than_50K,Ocassional_Small,No,No,Yes,No,Yes,No,No,Yes,No
+C13,R2,DS3,FA1,HT2,Emirates,AE,25K_50K,Never,No,Yes,No,Yes,No,Yes,No,Yes,No
+C14,R2,DS4,FA3,HT3,BMW Middle East,IND,25K_50K,Ocassional_Big,No,No,Yes,Yes,Yes,Yes,No,No,No
+C15,R2,DS4,FA2,HT1,Shell,US,5K_15K,Ocassional_Small,No,No,No,No,Yes,No,No,No,No
+C16,R2,DS4,FA2,HT1,Emirates,IND,More_than_50K,Lapser,No,No,No,Yes,Yes,No,Yes,Yes,No
+C17,R4,DS2,FA1,HT3,BMW Middle East,IND,25K_50K,Ocassional_Big,No,No,No,Yes,Yes,Yes,No,No,No
+C18,R1,DS3,FA3,HT1,Shell,EG,15K_25K,Never,No,Yes,Yes,Yes,No,Yes,Yes,No,No
+C19,R3,DS1,FA2,HT2,Emirates,UK,5K_15K,Lapser,No,No,Yes,No,Yes,Yes,No,No,No
+C20,R4,DS3,FA3,HT2,BMW Middle East,EG,Less_than_5K,New,Yes,No,No,No,Yes,Yes,No,No,No
