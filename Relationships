@@ -1,0 +1,13 @@
+
+
+load csv with headers from "file:///C:/customerfile.csv" as customers
+match (a: Customers {Id: customers.CustId}), (b: Merchant {MId: customers.Dines}) create (a) - [r: DinesAt] -> (b)
+
+load csv with headers from "file:///C:/customerfile.csv" as customers
+match (a: Customers {Id: customers.CustId}), (b: Merchant {MId: customers.Shops}) create (a) - [r: ShopsAt] -> (b)
+
+load csv with headers from "file:///C:/customerfile.csv" as customers
+match (a: Customers {Id: customers.CustId}), (b: Merchant {MId: customers.Fashion}) create (a) - [r: FashionPreference] -> (b)
+
+load csv with headers from "file:///C:/customerfile.csv" as customers
+match (a: Customers {Id: customers.CustId}), (b: Merchant {MId: customers.Travel}) create (a) - [r: VacationPreference] -> (b)

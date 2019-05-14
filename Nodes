@@ -1,0 +1,33 @@
+load csv with headers from "file:///C:/merchants.csv" as merchants
+create(A:Merchant
+{
+MId: merchants.label, 
+MerchantType: merchants.type, 
+MerchantName: merchants.Name,
+Description: merchants.Description
+} )
+
+
+load csv with headers from "file:///C:/customerfile.csv" as customers 
+create(n:Customers 
+{
+Id: customers.CustId, 
+Dines: customers.Dines,
+Shops: customers.Shops,
+Fashion: customers.Fashion,
+Travel: customers.Travel,
+Works_with: customers.Works_with, 
+Country: customers.country, 
+Earns: customers.Earns,
+Remits_Money: customers.Remits_Money, 
+Holds_Personal_loan: customers.Holds_Personal_loan,	
+Holds_Auto_loan: customers.Holds_Auto_loan,	
+Holds_Mortgage: customers.Holds_Mortgage, 
+Holds_Credit_Card: customers.Holds_Credit_Card,	
+Holds_Debit_Card: customers.Holds_Debit_Card, 
+Holds_Current_acct: customers.Holds_Current_acct,	
+Holds_Savings_acct: customers.Holds_Savings_acct, 
+Holds_Term_deposit: customers.Holds_Term_deposit,	
+Holds_Investment: customers.Holds_Investment
+ }
+ )
